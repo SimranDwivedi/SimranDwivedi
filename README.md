@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!--
+<!--![Uploading 8adc3a9b-bf43-4ef6-af8a-016b23e3ed6c.png…]()
+
 **SimranDwivedi/SimranDwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
